@@ -4,8 +4,8 @@ function Home() {
   return (
     <div style={{ maxWidth: 800, margin: '60px auto', padding: 24, fontFamily: 'Arial, sans-serif' }}>
       <h1>Full Stack Development Experiments</h1>
-      <p><strong>Name:</strong> Sujal Gulati</p>
-      <p><strong>UID:</strong> 24BDA70318</p>
+      <p><strong>Name:</strong> Anshul Sharma</p>
+      <p><strong>UID:</strong> 24BDA70368</p>
       <hr style={{ margin: '30px 0' }} />
       
       <div style={{ display: 'flex', flexDirection: 'column', gap: 20 }}>
